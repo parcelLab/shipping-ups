@@ -23,7 +23,7 @@
     "ups freight"
   ],
   "author": "uh-sem-blee, Co",
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/uh-sem-blee/node-shipping-ups"
